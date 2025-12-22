@@ -4,7 +4,13 @@
 const CBAS_SLIDES = [
   { src: "img/Queso.png",  
     caption: "Me visita un fantasma que vende queso", 
-    href: "posts/Abuela-queso.pdf"},
+    href: "posts/Abuela-queso.pdf"
+  },
+   {
+    src: "img/perros.jpg",
+    caption: "De calle como los perros",
+    href: "posts/como-los-perros.pdf" // o .html
+  }
   // agrega más {src, caption, href} si quieres
 ];
 
