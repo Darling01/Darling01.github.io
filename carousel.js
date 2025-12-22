@@ -2,9 +2,9 @@
 
 // Edita aquí tus publicaciones (miniatura cuadrada + PDF/HTM)
 const CBAS_SLIDES = [
-  { src: "img/Queso.jpg",  
+  { src: "img/Queso.png",  
     caption: "Me visita un fantasma que vende queso", 
-    href: "posts/cocinando-una-quesadilla-con-mi-abuela-muerta-V2.pdf" },
+    href: "posts/Abuela-queso.pdf"},
   // agrega más {src, caption, href} si quieres
 ];
 
