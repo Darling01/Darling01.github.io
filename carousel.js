@@ -9,7 +9,12 @@ const CBAS_SLIDES = [
    {
     src: "img/perros.jpg",
     caption: "De calle como los perros",
-    href: "posts/como-los-perros.pdf" // o .html
+    href: "posts/como-los-perros.pdf" 
+  },
+    {
+    src: "img/Tino.jpg",
+    caption: "Sientes que la ciudad murmulla que a esta hora andas",
+    href: "posts/Sientes_que_la_ciudad_murmulla_v2.pdf" 
   }
   // agrega más {src, caption, href} si quieres
 ];
