@@ -14,7 +14,7 @@ const CBAS_SLIDES = [
     {
     src: "img/tino.jpg",
     caption: "Sientes que la ciudad murmulla que a esta hora andas",
-    href: "posts/tientes_que_la_ciudad_murmulla_v2.pdf" 
+    href: "posts/sientes_que_la_ciudad_murmulla_v2.pdf" 
   }
   // agrega más {src, caption, href} si quieres
 ];
