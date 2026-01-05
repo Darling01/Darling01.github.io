@@ -12,7 +12,7 @@ const CBAS_SLIDES = [
     href: "posts/como-los-perros.pdf" 
   },
     {
-    src: "img/perros.jpg",
+    src: "img/tino.jpg",
     caption: "Sientes que la ciudad murmulla que a esta hora andas",
     href: "posts/sientes-que-la-ciudad-murmulla-v2.pdf" 
   }
