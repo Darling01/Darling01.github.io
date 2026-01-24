@@ -18,8 +18,8 @@ const CBAS_SLIDES = [
   },
     {
     src: "img/Nemesis.jpeg",
-    caption: "Nemesis",
-    href: "posts/Nemesis.pdf" 
+    caption: "Midori",
+    href: "posts/Midori.pdf" 
   }
   // agrega más {src, caption, href} si quieres
 ];
